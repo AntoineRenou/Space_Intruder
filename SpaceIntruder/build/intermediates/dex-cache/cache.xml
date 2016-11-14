@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="12c176f624703edb7699a7bb7229c2eefef4c695">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5cfb4e2767033db59098539c3dbd146278200310\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_63c208f5fc4f52e4a6625ee31e41fd65de41b163\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_051a649cdedafe5e4938cf2dd543e34e73eafad2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_7100c2f66f0e9821c8d0108a87641a60222bf693\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_313ea9746d1bed1f08e9fd353a0ee95d9d999d04\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_0f5b5995e3dd4b46144a5d35525737e046d55f59\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_7fe19b48318c0c97b432cebc299f719c1c3a062f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_142bdbbf5e9f1d85c99c3c0d2877625943d2f316\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_499341ef5cb6c617a2a395d2a6be3828f7c235f6\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidSDKLocation\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_73c0911c3be31d58ebd88a92fa86e9dbbf8e558d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_bb60b29331876a71aebea07cc39240255551daeb\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_29b5b12b76d943a4643abcb06a6609cc447643e8\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_5b3a73299096a0a75cb5fe8a57f9090766bb778d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ac178d2244cfec8c8b55ce47ebf80ab282dadf16\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_f05803a5d23aee7416ba26fdb0838b50e604e8c0\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="345b62ed50507289a7f3b264da9ef98f7658d52e">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f53cd8d2f183536a17f776ce68899d65f4eece0f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Users\AR\Desktop\Space Intruder\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6f1ff29a9902228ad21798490eca5dfc47978da4\classes.dex" />
+    </item>
+
+</items>
